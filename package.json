@@ -1,0 +1,24 @@
+{
+  "name": "@dabblelab/mantium",
+  "version": "1.0.0",
+  "description": "Client for the Mantium API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabblelab/mantium-nodejs.git"
+  },
+  "keywords": [],
+  "author": "Dabble Lab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabblelab/mantium-nodejs/issues"
+  },
+  "homepage": "https://github.com/dabblelab/mantium-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {}
+}
